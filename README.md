@@ -1,5 +1,5 @@
-# 2019-abcd-asd
-These scripts will reproduce the analyses reported in Jutla A, Donohue MR, Veenstra-VanderWeele J, Foss-Feig JH. "Reported autism diagnosis strongly predicts psychotic-like experiences in the Adolescent Brain Cognitive Development Cohort."
+# Reported autism diagnosis is associated with psychotic-like experiences in the ABCD cohort: analytic code
+These scripts will reproduce the analyses reported in our paper ["Reported autism diagnosis is associated with psychotic-like experiences in the Adolescent Brain Cognitive Development Cohort"](https://doi.org/10.1007/s00787-021-01738-1).
 
 # How to use
 
@@ -12,6 +12,8 @@ These scripts will reproduce the analyses reported in Jutla A, Donohue MR, Veens
 4. Check in `output` for analysis results.
 
 # Changelog
+
+20251110: added link to paper.
 
 20200206: uploaded code.
 
